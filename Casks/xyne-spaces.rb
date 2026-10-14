@@ -1,4 +1,4 @@
-cask "spaces" do
+cask "xyne-spaces" do
   version "1.0.66"
   sha256 "7ba0d03199f592295574457f5d05c84292f9e6e8db913a081c0b9ff84fb07876"
 

@@ -1,5 +1,5 @@
 # Xyne Homebrew Tap
 
 ```sh
-brew install --cask juspay/xyne/spaces
+brew install --cask juspay/xyne/xyne-spaces
 ```
