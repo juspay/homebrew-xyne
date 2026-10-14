@@ -2,8 +2,7 @@ cask "spaces" do
   version "1.0.66"
   sha256 "7ba0d03199f592295574457f5d05c84292f9e6e8db913a081c0b9ff84fb07876"
 
-  url "https://github.com/juspay/xyne-spaces/releases/download/v#{version}/Xyne.Spaces-#{version}-mac-arm64.dmg",
-      verified: "github.com/juspay/xyne-spaces/"
+  url "https://github.com/juspay/xyne-spaces/releases/download/v#{version}/Xyne.Spaces-#{version}-mac-arm64.dmg"
   name "Xyne Spaces"
   desc "Collaboration platform for humans and AI"
   homepage "https://github.com/juspay/xyne-spaces"
